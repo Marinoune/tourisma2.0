@@ -1,0 +1,40 @@
+.img{
+    position: absolute;
+    height: 712px ;
+    width: 100%;
+    margin: 0%;
+}
+.card{
+box-shadow: -6px 9px 40px -17px rgba(0,0,0,0.75);
+-webkit-box-shadow: -6px 9px 40px -17px rgba(0,0,0,0.75);
+-moz-box-shadow: -6px 9px 40px -17px rgba(0,0,0,0.75);
+    top: 30%;
+    left: 30%;
+    width: calc(40% - 60px);
+    height: calc(50% - 60px);
+    padding: 30px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    border-radius: 20px;
+    overflow: hidden;
+}
+form{
+    height: 100%;
+}
+input, textarea{
+    border-radius: 5px;
+    border: 2px solid #3a2d2d;
+}
+button{
+    background-color: #462b2b;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 1.4em;
+    border: none;
+    width: 100%;
+    position: relative;
+    bottom: 20px;
+}

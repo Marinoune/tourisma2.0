@@ -1,0 +1,26 @@
+.home{
+    position: relative;
+    height: 712px;
+    width: auto;
+    background-repeat: no-repeat;
+    margin: 0%;
+}
+.home2{
+    position: relative;
+    height: 712px;
+    width: 879px;
+    background-repeat: no-repeat;
+    margin: 0%;
+}
+.sec{
+    margin: 0px;
+}
+.div1{
+position: absolute;
+z-index: 1;
+translate: 550px 200px;
+}
+.div2{
+position: absolute;
+z-index: 0;
+}

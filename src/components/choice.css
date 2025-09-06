@@ -1,0 +1,10 @@
+.bipboup{
+   position: absolute;
+    z-index: 1;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(22, 21, 21, 0.906);
+    background-color: rgba(226, 198, 178, 0.359);
+    font-size: 50px;
+    translate: 100px 100px;
+    border-radius: 10px;
+}

@@ -1,0 +1,21 @@
+.navy{
+    translate: 415px;
+    position: fixed;
+    display: flex;
+    height: 80px;
+    width: 850px;
+    background-color: rgba(254, 254, 254, 0.18);
+    backdrop-filter: blur(10px);
+    z-index: 1;
+    margin: 0px;
+    border-radius: 10px;
+    justify-content: space-evenly;
+}
+.button {
+    color: rgba(59, 45, 42, 0.729);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+   text-decoration: none;
+   text-shadow: 2px 2px 3px rgba(46, 26, 18, 0.778) ;
+   font-size: 20px;
+}
